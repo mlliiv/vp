@@ -1,0 +1,30 @@
+{
+  "name": "vp",
+  "version": "1.0.0",
+  "description": "Veebiproge tundides tehtud veeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mlliiv@github.com/mlliiv/vp.git"
+  },
+  "keywords": [
+    "node.js",
+    "veeb",
+    "tallinna",
+    "Ülikool",
+    "koolitöö",
+    "veebuproge"
+  ],
+  "author": "Maarja-Liis Liiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlliiv/vp/issues"
+  },
+  "homepage": "https://github.com/mlliiv/vp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
